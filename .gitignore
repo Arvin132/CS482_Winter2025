@@ -1,1 +1,11 @@
 ./*.zip
+*.zip
+
+PS1_a29asgha.zip
+
+**/__pycache__/
+__pycache__/
+
+
+/PS1/CS482_PS1_report.pdf
+/PS1_a29asgha.zip
