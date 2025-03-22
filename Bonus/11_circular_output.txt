@@ -1,0 +1,2 @@
+AAGATCATTAAG
+ L=12, k=4
